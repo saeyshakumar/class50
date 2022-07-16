@@ -1,0 +1,29 @@
+h1{
+    color: rgb(92, 75, 222);
+}
+.header{
+    background-color: rgb(160, 160, 129);
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+  display:flex;
+  justify-content: flex-end;  
+}
+p{
+   color: rgb(194, 80, 80);
+   text-align: center;
+}
+h2{
+    color: blueviolet;
+}
+.one{
+    display: flex;
+    justify-content: first baseline;
+    flex-direction: column;
+}
